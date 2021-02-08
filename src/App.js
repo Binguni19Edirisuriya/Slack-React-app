@@ -6,7 +6,7 @@ import SideBar from "./SideBar";
 function App() {
   return (
     <div className="App">
-     <h1>Welcome</h1>
+     
 
     <Header/>
     <div className= "app_body">
